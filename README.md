@@ -30,7 +30,7 @@ ono-tebe-nado/
 
 ## Ссылка на репозиторий
 
-https://github.com/vilkafork21/ono-tebe-nado
+https://github.com/vilkafork21/ono-tebe-nado-ad
 
 ## Как открыть
 
